@@ -128,4 +128,4 @@ Python (pandas, seaborn), Google Colab, Google Slides
 
 ## Contact
 - GitHub: [AliHaydar2023](https://github.com/AliHaydar2023)
-- LinkedIn: [add your link]
+
