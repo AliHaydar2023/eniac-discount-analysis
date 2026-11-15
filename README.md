@@ -90,16 +90,16 @@ This is a group case study from the **WBS Coding School Data Analytics Bootcamp*
 
 ## Visualisations
 **Sales follow the calendar; the discount stays near 20% all year**
-![Monthly sales](images/MONTHLY_CHART.png)
+![Monthly sales](images/sales_revenue_discount_by_month.png)
 
 **Cheap items get the biggest discounts but bring in little revenue**
-![Price bands](images/PRICE_BAND_CHART.png)
+![Price bands](images/revenue_discount_by_price_band.png)
 
 **Accessories are discounted most; phones and tablets least**
-![Categories](images/CATEGORY_CHART.png)
+![Categories](images/revenue_discount_by_category.png)
 
 **About two thirds of revenue comes from discounts of up to 20%**
-![Discount size](images/DISCOUNT_SIZE_CHART.png)
+![Discount size](images/revenue_by_discount_band.png)
 
 ## Improving Data Collection
 - **Add automated input checks.** Unreadable prices (e.g. `1.137.99`) removed every sale of €1,000 or more.
