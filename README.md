@@ -30,7 +30,7 @@ The goal: clean Eniac's messy sales database in Python and answer one question: 
 
 **Our answer:** discount less, and more carefully. Nearly every sale is discounted all year round, yet sales follow the calendar (Black Friday, Christmas) rather than the size of the discount, and most revenue comes from small discounts.
 
-This is a group case study from the **[WBS Coding School](https://github.com/WBSCodingSchool) Data Analytics Bootcamp**, completed with **Catalina Mayer** and **[Louise Gorman](https://github.com/louisegorman)**.
+This is a group case study from the **[WBS Coding School](https://github.com/WBSCodingSchool) Data Analytics Bootcamp**, completed with **Catalina Mayer** and **Louise Gorman**.
 
 - Final presentation: [eniac-board-presentation.pdf](documentation/slides/eniac-board-presentation.pdf)
 
