@@ -122,7 +122,7 @@ This is a group case study from the **WBS Coding School Data Analytics Bootcamp*
 ## How to Use
 1. **Quick look:** read the final presentation (PDF) for the 5-minute summary.
 2. **Check the numbers:** open the notebooks in `scripts/` in order (01 to 04).
-3. **Run it yourself:** open a notebook in Google Colab and run all cells. [Note: the notebooks load data from shared Google Drive links; update the paths if you use the files in `data/` instead.]
+3. 3. **Run it yourself:** open a notebook in Google Colab and run all cells. The notebooks load their input files from shared Google Drive links. The same files are also available in the `data/` folder of this repository.
 
 ## Tools
 Python (pandas, seaborn), Google Colab, Google Slides
