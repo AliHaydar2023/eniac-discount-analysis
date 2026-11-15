@@ -8,7 +8,6 @@
 
 ## Table of Contents
 - [Overview](#overview)
-- [My Role](#my-role)
 - [Data](#data)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
