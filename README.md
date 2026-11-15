@@ -80,7 +80,7 @@ This is a group case study from the **WBS Coding School Data Analytics Bootcamp*
 ## Data Cleaning Process
 | Step | Notebook | What it does | Rows left |
 |---|---|---|---|
-| 1 | `01_data-cleaning.ipynb` | Removes duplicate products, handles missing values and text dates, fixes broken prices | 226,904 orders, 216,250 order lines, 9,992 products |
+| 1 | `[`01_data-cleaning.ipynb`](scripts/01_data-cleaning.ipynb)` | Removes duplicate products, handles missing values and text dates, fixes broken prices | 226,904 orders, 216,250 order lines, 9,992 products |
 | 2 | `02_data-quality.ipynb` | Keeps completed orders only, removes €0 totals and unknown products, checks that amounts paid match products bought | 40,985 orders, 53,231 order lines |
 | 3 | `03_product-categories.ipynb` | Adds sub-category, category and condition to every product | 9,992 products in 12 groups |
 | 4 | `04_analysis-charts.ipynb` | Answers the business questions and produces the charts | 4 charts |
